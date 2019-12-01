@@ -1,2 +1,2 @@
 # rgb
-rgb html pages
+RGB html pages
